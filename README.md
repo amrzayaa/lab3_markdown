@@ -26,7 +26,9 @@ git commit -m "first commit"
 ![Project Screenshot](image/Screenshots.png)
 
 ## Хүснэгт 
+
 | Нэр   |  Нас  | Мэргэжил |
+|-------|-------|----------|
 |  Бат  |  20   | IT       |
 | Болд  |  22   | SE       |
 |       |       |          |
